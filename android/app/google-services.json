@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545638597216",
+    "project_id": "notification-f1417",
+    "storage_bucket": "notification-f1417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545638597216:android:48679d4102be2176fef905",
+        "android_client_info": {
+          "package_name": "com.boostifly.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545638597216-1evq514codrgnmuq7l5vg0n7dhbenf1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8BI_lffRYuC9c3vzZlDCtzQiWgelaos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545638597216-1evq514codrgnmuq7l5vg0n7dhbenf1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
